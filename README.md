@@ -75,13 +75,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivanesh-murugasamy&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesh-murugasamy&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
